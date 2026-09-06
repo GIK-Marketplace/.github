@@ -26,10 +26,6 @@ GIK ([gik.org](https://gik.org)) is a centralized marketplace that moves vital r
 | **Logistics Partners** | Move resources from origin to responder |
 | **Government Partners** | Accountability, compliance, and coordination |
 
-## Built for AI Assistants Too
-
-The marketplace ships an AI connector built on the Model Context Protocol (MCP), so an organization's AI assistant can search verified needs, manage surplus resources, make and track offers, and follow orders through delivery, all scoped to that organization's own account.
-
 ## Get Involved
 
 Join the marketplace as a supplier, nonprofit, or government partner: **[app.gik.org/auth/signup](https://app.gik.org/auth/signup)**
